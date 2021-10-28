@@ -1,4 +1,4 @@
-Subject Height Age Init_Height Init_Age Log(FEV1)
+     Subject     Height     Age     Init_Height     Init_Age     Log(FEV1)
      1     1.20      9.3415      1.20     9.3415     0.21511
      1     1.28     10.3929      1.20     9.3415     0.37156
      1     1.33     11.4524      1.20     9.3415     0.48858
