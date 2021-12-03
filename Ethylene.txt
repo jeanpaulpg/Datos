@@ -1,4 +1,4 @@
-Litter_ID	Dose	Fetal_Weight	Fetal_Malformations
+ID	Dose	Weight	Malformed
 60	0	0.903	0
 60	0	0.828	0
 60	0	0.953	0
