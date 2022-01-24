@@ -1,4 +1,4 @@
-    ID       Centro       Edad       Piel       Genero       Exposicion       Y       Tratamiento       Año
+    ID       Center       Age       Skin       Gender       Exposure       Y       Treatment       Year
     100034       1       51      1      1         4       0     0       1 
     100034       1       51      1      1         4       1     0       2 
     100034       1       51      1      1         4       1     0       3 
