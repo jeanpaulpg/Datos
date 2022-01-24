@@ -1,31 +1,4 @@
-Data from a two-period crossover trial on cerebrovascular deficiency.
-
-
-Source: Table 3.1 (page 90) of Jones and Kenward (1989).
-With permission of CRC Press.
-
-Reference: Jones, B. and Kenward, M.G. (1989). Design and Analysis of Cross-over Trials. 
-London: Chapman and Hall/CRC Press.
-
-
-Description:
-
-The dataset consists of safety data from a crossover trial on the
-disease cerebrovascular deficiency. The response variable is
-not a trial endpoint but rather a potential side effect. In
-this two-period crossover trial, comparing the effects of active
-drug to placebo, 67 patients were randomly allocated to the two
-treatment sequences, with 34 patients receiving placebo
-followed by active treatment, and 33 patients receiving active
-treatment followed by placebo. The response variable is binary, 
-indicating whether an electrocardiogram (ECG) was abnormal (Y=1) 
-or normal (Y=0). Each patient has a bivariate binary response vector.
-
-
-Variable List:
-
-Subject ID, Sequence (1=Placebo-->Active, 2=Active-->Placebo), Period (0=Period 1, 1=Period 2), 
-TRT (0=Placebo, 1=Active Drug), ECG Response (0=Normal, 1=Abnormal).
+                 ID     Sequence     Period     TRT     ECG 
 
                  1     1        0       0     0
                  1     1        1       1     0
